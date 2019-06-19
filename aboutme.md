@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Just a bit of history and stuff
+subtitle: A bit about me
 ---
 
-# A bit about me
 ## My background
 I was born in Tehran, Iran on June 17th, 1994. I lived in Iran for the first 23 years of my life. As a child, I was into many of the things you would expect: astronomy, video games, etc. I also hated spinach (I _love_ it now, not joking).
         
