@@ -6,7 +6,7 @@ subtitle: A bit about me
 
 ## Who am I?
 
-I'm a 2nd-year PhD student at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch "EPFL's homepage") (EPFL), and I work on applied machine learning and data science in a project that applies these techniques to the identification of latent training needs of people in the software industry, using publicly available data. Our project aims for the development of methodologies that can be generalisable to any industry that has sufficient digital traces, and in particular the Swiss vocational education and training (VET) system -- the funding for my project comes from a Swiss federal body for VET.
+I'm a 2nd-year PhD student at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch "EPFL's homepage") (EPFL), and I work on **applied machine learning** and **data science** in a project that applies these techniques to the **identification of latent training needs** of people in the software industry, using publicly available data. Our project aims for the development of methodologies that can be generalisable to any industry that has sufficient digital traces, and in particular the Swiss vocational education and training (VET) system -- the funding for my project comes from a Swiss federal body for VET.
 
 My thesis is supervised by [Pierre Dillenbourg](https://people.epfl.ch//pierre.dillenbourg?lang=en) who heads the [CHILI lab](https://chili.epfl.ch) and co-supervised by [Robert West](https://people.epfl.ch/robert.west) who heads the [Data Science Lab](https://dlab.epfl.ch).
 
