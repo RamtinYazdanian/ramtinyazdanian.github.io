@@ -10,6 +10,12 @@ I'm a 2nd-year PhD student at [École Polytechnique Fédérale de Lausanne](http
 
 My thesis is supervised by [Pierre Dillenbourg](https://people.epfl.ch//pierre.dillenbourg?lang=en) who heads the [CHILI lab](https://chili.epfl.ch) and co-supervised by [Robert West](https://people.epfl.ch/robert.west) who heads the [Data Science Lab](https://dlab.epfl.ch).
 
+If you are looking for my **CV** or **publications**, look for the links in the upper right corner. My LinkedIn profile's link is at the bottom of the page.
+
+## What are my skills?
+
+I use the **Python** programming language on a daily basis, and I am proficient in using the data analysis package **Pandas** in Python. For handling big data, I am quite experienced with **Apache Spark**. For machine learning tasks, I usually use **scikit-learn**, and an assortment of task-specific packages (e.g. **tsfresh** for time series features). I have some experience in web development in the context of research projects, e.g. to publish a specifically-designed questionnaire, for which I have used **Flask** in Python.
+
 ## My background
 I was born in Tehran, Iran on June 17th, 1994. I lived in Iran for the first 23 years of my life. As a child, I was into many of the things you would expect: astronomy, video games, etc. I also hated spinach (I _love_ it now, not joking).
         
@@ -19,7 +25,7 @@ My interest in AI made me choose Computer Engineering as my major. I received my
 
 I applied for a doctorate to EPFL at the end of my Bachelor's (given the length of my Bachelor's program, there was no need for an M.Sc. degree), and received an admission offer, which I gladly took. Coming here, I became more closely acquainted with data science through a project with Robert West (who is now my co-supervisor) and realised that this was specifically the direction I would like to go in. I then took up my current project and thesis with Pierre Dillenbourg, my thesis supervisor, and passed the 1st year candidacy exam which basically was the gateway exam for the continuation of my PhD.
 
-## What I do every day
+## What I do on a daily basis
 On a daily basis, I try to make sense of various plots, wonder why my classifier has low precision on the positive class, and read up interesting papers on computational social science and data science in education, among others.
 
 ## My hobbies
