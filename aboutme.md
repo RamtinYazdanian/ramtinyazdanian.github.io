@@ -6,7 +6,7 @@ subtitle: A bit about me
 
 ## Who am I?
 
-I'm a 2nd-year PhD student at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch "EPFL's homepage") (EPFL), and I work on **applied machine learning** and **data science** in a project that applies these techniques to the **identification of latent training needs** of people in the software industry, using publicly available data. Our project aims for the development of methodologies that can be generalisable to any industry that has sufficient digital traces, and in particular the Swiss vocational education and training (VET) system -- the funding for my project comes from a Swiss federal body for VET.
+I'm a 4nd-year PhD student at [École Polytechnique Fédérale de Lausanne](https://www.epfl.ch "EPFL's homepage") (EPFL), and I work on **applied machine learning** and **data science** in a project that applies these techniques to the **identification of latent training needs** of people in the software industry, using publicly available data. Our project aims for the development of methodologies that can be generalisable to any industry that has sufficient digital traces, and in particular the Swiss vocational education and training (VET) system -- the funding for my project comes from a Swiss federal body for VET.
 
 My thesis is supervised by [Pierre Dillenbourg](https://people.epfl.ch//pierre.dillenbourg?lang=en) who heads the [CHILI lab](https://chili.epfl.ch) and co-supervised by [Robert West](https://people.epfl.ch/robert.west) who heads the [Data Science Lab](https://dlab.epfl.ch).
 
@@ -29,5 +29,5 @@ I applied for a doctorate to EPFL at the end of my Bachelor's (given the length 
 On a daily basis, I try to make sense of various plots, wonder why my classifier has low precision on the positive class, and read up interesting papers on computational social science and data science in education, among others.
 
 ## My hobbies
-I sing and play the bass guitar (also recently the electric guitar, but my playing is nothing to write home about). I am also generally into video games and movies/series, if time permits (which it usually does not). Now that you've read everything so far down, I'd just like to recommend that you watch the British series Fleabag. Just do it, it's a masterpiece.
+I sing and play the bass guitar (also recently the electric guitar, but my playing is nothing to write home about). I am also generally into video games and movies/series, if time permits (which it usually does not). Now that you've read everything so far down, I'd just like to recommend that you watch the HBO series Barry. Just do it.
 
